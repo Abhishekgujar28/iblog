@@ -1,0 +1,17 @@
+{
+  "name": "important_project_9_blog",
+  "version": "1.0.0",
+  "description": "This app which is created by abbhishek",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
